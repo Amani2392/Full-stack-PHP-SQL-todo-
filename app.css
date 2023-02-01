@@ -1,0 +1,22 @@
+body{
+    background-color: #FFE28B;
+    
+}
+
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 25%;
+}
+
+/*
+background-image: url('searchicon.png');
+background-size: 40px 20px;
+background-position:inherit;
+background-position: 10px 10px; 
+background-repeat: no-repeat;
+*/
